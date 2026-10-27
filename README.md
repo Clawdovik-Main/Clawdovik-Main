@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="Clawdovik, розовый перегруз" width="100%">
+  <img src="banner.png" alt="Clawdovik, розовый перегруз" width="100%">
 </p>
 
 <p align="center">
