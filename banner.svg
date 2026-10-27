@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420">
+  <defs>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <rect width="28" height="28" fill="#ffe7d4"/>
+      <circle cx="8" cy="8" r="2.2" fill="#ff8ba6" opacity="0.7"/>
+      <path d="M0 28 H28 M28 0 V28" stroke="#ffc179" stroke-width="1" opacity="0.45"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="420" fill="url(#dots)"/>
+  <rect x="14" y="14" width="1172" height="392" fill="none" stroke="#ffc179" stroke-width="10"/>
+  <rect x="28" y="28" width="1144" height="364" fill="none" stroke="#fff" stroke-width="8"/>
+  <rect x="40" y="40" width="1120" height="340" fill="none" stroke="#ff8ba6" stroke-width="4"/>
+  <g fill="#ff8ba6" stroke="#8d4330" stroke-width="3">
+    <path d="M90 150 c0-22 34-22 34 2 c8-24 42-14 32 10 c18 4 18 28 0 32 c6 22-22 30-32 14 c-8 18-36 12-34-8 c-16-2-20-28 0-32 z"/>
+    <path d="M1080 120 c0-18 28-18 28 2 c6-20 34-12 26 8 c14 4 14 22 0 26 c4 18-18 24-26 12 c-6 14-30 10-28-6 c-14-2-16-22 0-26 z"/>
+  </g>
+  <g fill="#ffc179" stroke="#8d4330" stroke-width="3">
+    <polygon points="160,90 168,112 192,114 174,130 180,152 160,138 140,152 146,130 128,114 152,112"/>
+    <polygon points="1040,250 1048,272 1072,274 1054,290 1060,312 1040,298 1020,312 1026,290 1008,274 1032,272"/>
+    <polygon points="220,300 226,316 244,318 230,330 234,346 220,336 206,346 210,330 196,318 214,316"/>
+  </g>
+  <text x="600" y="168" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="86" font-weight="700" fill="#8d4330">CLAWDOVIK</text>
+  <text x="600" y="214" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="28" fill="#c45b78">@>7>2K9 ?5@53@C7 2:;NGQ=</text>
+  <text x="600" y="268" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="22" fill="#8d4330">A>@B8@>2:8, ?8:A5;8 8 A;8H:>< <=>3> =0:;55:</text>
+  <rect x="250" y="300" width="700" height="46" rx="23" fill="#8d4330"/>
+  <text x="600" y="330" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#fff6ee">:><0=40 7  ·  timsort  ·  powersort  ·  dual-pivot  ·  introsort</text>
+</svg>
